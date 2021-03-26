@@ -1,6 +1,7 @@
 name: MLtotenv
 dependencies:
 - python==3.7.10
+- python==2.7
 - pip
 - matplotlib
 - "ipython<6"
