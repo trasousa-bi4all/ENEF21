@@ -1,0 +1,18 @@
+name: MLtotenv
+dependencies:
+- python==3.7.10
+- pip
+- matplotlib
+- "ipython<6"
+- notebook==5.2.1
+- ipywidgets
+- pip:
+  - keras
+  - h5py
+  - tensorflow
+  - scipy
+  - uproot3
+  - tqdm
+  - deepdish
+  - sklearn
+
